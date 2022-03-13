@@ -1,2 +1,2 @@
-# LamdaAdmin
+# LambdaAdmin
 Admin Dashboard
